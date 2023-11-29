@@ -3,3 +3,4 @@ An only an Stock retrieval software. similar to OpenBB. Pretty much a simple a b
 
 ## Technology 
 The main bulk of the project will come from [OpenBB](https://openbb.co/)
+Other technologies needed are an API from [Tradingview](https://www.tradingview.com/) or [Investing.com](https://www.investing.com/)
